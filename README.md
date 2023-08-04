@@ -1,4 +1,5 @@
 # Hi there, I'm Feyzili Mikayil 👋
+[![Twitter Follow](https://img.shields.io/twitter/follow/feyzili?style=social)](https://twitter.com/feyzili)
 
 I'm the Manager of AfeaGroup, where we craft innovative web and mobile applications. With a robust portfolio that spans various technologies, I'm passionate about building high-quality software solutions.
 
