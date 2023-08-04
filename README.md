@@ -9,19 +9,13 @@ I'm the Manager of AfeaGroup, where we craft innovative web and mobile applicati
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=flat-square&logo=prometheus)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-
-![PHP Laravel](https://img.shields.io/badge/PHP_Laravel-FF2D20?style=flat-square&logo=laravel)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=flat-square&logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube)
 
 
 - **Backend Development**: Specialized in PHP Laravel, creating dynamic and scalable backend solutions.
