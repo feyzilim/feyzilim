@@ -5,6 +5,12 @@ I'm the Manager of AfeaGroup, where we craft innovative web and mobile applicati
 
 ## 🚀 Technologies & Expertise
 
+![PHP Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+
 ![PHP Laravel](https://img.shields.io/badge/PHP_Laravel-FF2D20?style=flat-square&logo=laravel)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
