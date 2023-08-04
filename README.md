@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Feyzili Mikayil 👋
 
-I'm the Manager of [Your Development Company], where we craft innovative web and mobile applications. With a robust portfolio that spans various technologies, I'm passionate about building high-quality software solutions.
+I'm the Manager of AfeaGroup, where we craft innovative web and mobile applications. With a robust portfolio that spans various technologies, I'm passionate about building high-quality software solutions.
 
 ## 🚀 Technologies & Expertise
 
@@ -15,18 +15,10 @@ I'm the Manager of [Your Development Company], where we craft innovative web and
 - **Containerization**: Utilizing Docker for consistent and efficient deployment across projects.
 - **Code Quality Assurance**: Ensuring code excellence with SonarQube.
 
-## 🏢 About [Your Development Company]
-
-At [Your Development Company], we provide comprehensive software development services, ranging from web applications to mobile app development. Our team of dedicated professionals is committed to delivering top-tier solutions tailored to our clients' needs.
-
-## 📈 Recent Projects
-
-[Describe some of the recent or notable projects here]
-
 ## 📞 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](#)
-- Twitter: [Your Twitter Profile](#)
-- Email: [Your Email Address](#)
+- LinkedIn: https://www.linkedin.com/in/mikay%C4%B1l-feyzili-0a696111a(#)
+- Twitter: twitter.com/feyzili(#)
+- Email: feyzilim@gmail.com(#)
 
 Feel free to explore our repositories and don't hesitate to reach out if you're interested in collaborating or learning more about our services. Thank you for stopping by!
