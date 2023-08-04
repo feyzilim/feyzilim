@@ -31,7 +31,7 @@ I'm the Manager of AfeaGroup, where we craft innovative web and mobile applicati
 
 ## 📞 Get in Touch
 
-- LinkedIn: https://www.linkedin.com/in/mikay%C4%B1l-feyzili-0a696111a
+- LinkedIn: [feyzili](https://www.linkedin.com/in/mikay%C4%B1l-feyzili-0a696111a)
 - Twitter: [feyzili](https://twitter.com/feyzili)
 - Email: [feyzilim@gmail.com](mailto:feyzilim@gmail.com)
 
